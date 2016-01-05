@@ -1,0 +1,1 @@
+Adobe AIR app for doing basic photo editing w/ image uploading to all the popular photo hosting sites (Flickr, PicasaWeb, Facebook, etc).
